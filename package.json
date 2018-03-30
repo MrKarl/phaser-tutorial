@@ -1,0 +1,15 @@
+{
+  "name": "phaser-tutorial",
+  "version": "1.0.0",
+  "description": "This project is for scaffolding phaser-setup with typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Phaser", "TypeScript", "Scaffolding", "Template"],
+  "author": "karl.panki.park@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "phaser-ce": "^2.10.3"
+  }
+}
